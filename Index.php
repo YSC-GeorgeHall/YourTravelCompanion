@@ -18,14 +18,6 @@
     background-image:url('images/banner1.jpg');
 }
 
-.hidden-spacer {
-    height: 56px
-}
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
       
     </style>
   </head>
